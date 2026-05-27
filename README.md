@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web-development<br>🌱 I’m currently learning <br> 👩‍🎓NIT,Surat first year student
+🔭 I’m currently working on Web-development<br>🌱 I’m currently learning <br> 👩‍🎓NIT,Surat second year student
 
 
 # 💻 Tech Stack:
